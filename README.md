@@ -4,5 +4,7 @@ Uses Breadth First Search(BFS) algorithm to evaluate all the vertices in the maz
 To run this file you have to go to cmd and change directory  to the address where the file is stored in.
 Then type the "file_name.py" in command line
 
+Please set your cmd resolution to 8x8 otherwise the maze will not look as a square.
+
 
 This is my first project on github, hope you all like it.
